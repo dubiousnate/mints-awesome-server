@@ -1,5 +1,5 @@
 ---
-title: 🍀 How to Play on Mint’s Minecraft Server
+title: How to Play on Mint’s Minecraft Server
 layout: default
 ---
 
