@@ -1,4 +1,7 @@
-# 🍀 How to Play on Mint’s Minecraft Server
+---
+title: 🍀 How to Play on Mint’s Minecraft Server
+layout: default
+---
 
 Welcome to **Mint’s Awesome Modpack**!  
 Follow this guide to install the pack through CurseForge and join the server at **mintcraft.se**.
