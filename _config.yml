@@ -23,7 +23,6 @@ sass:
   sass_dir: css
   style: compressed
 
-# Favicon (optional)
 favicon: /favicon.ico
 
 # Exclude these files/folders from being processed
