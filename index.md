@@ -6,7 +6,7 @@ layout: default
 # 🍀 How to Play on Mint’s Minecraft Server
 
 Welcome to **Mint’s Awesome Modpack**!  
-Follow this guide to install the pack through CurseForge and join the server at **mintcraft.se**.
+Follow this guide to install the pack through CurseForge and join the server at **57.129.38.77:2496**.
 
 ---
 
@@ -54,7 +54,7 @@ Follow this guide to install the pack through CurseForge and join the server at 
 3. Click **Add Server**.  
 4. Enter:
    - **Server Name:** Mint’s Awesome Server  
-   - **Server Address:** `mintcraft.se`  
+   - **Server Address:** `57.129.38.77:2496`  
    - **Server Resource Packs:** set this to **Enabled** instead of **Prompt**, so you’ll automatically get the server’s textures and the full experience.
 5. Click **Done**, then select the server and click **Join Server**.
 
