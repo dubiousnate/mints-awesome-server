@@ -1,3 +1,36 @@
+---
+title: How to Play on Mint’s Minecraft Server (Using a Share Code)
+layout: default
+---
+
+# 🍀 How to Play on Mint’s Minecraft Server (Share Code Version)
+
+Welcome to **Mint’s Awesome Modpack**!  
+This guide helps you install the modpack directly in the **CurseForge App** using a share code instead of searching for it.
+
+---
+
+### 🧑‍🏫 For Parents
+This guide helps your child safely install a **Minecraft Java Edition** modpack using the trusted **CurseForge App**.  
+Everything here is official and safe — no extra downloads or websites needed.
+
+---
+
+## 🧩 Step 1: Open the CurseForge App
+*You’ll use CurseForge to download and manage the modpack.*
+
+1. Launch the **CurseForge App** on your computer.  
+   - If you don’t have it yet, download it here: [https://www.curseforge.com/download/app](https://www.curseforge.com/download/app)
+2. In the sidebar, click **Minecraft (Java Edition).**
+
+---
+
+## ⚙️ Step 2: Create a Custom Profile Using the Share Code
+*This automatically adds Mint’s Awesome Modpack to your app.*
+
+1. In the top-right corner of the CurseForge Minecraft screen, click **“Create Custom Profile.”**  
+2. In the pop-up window, click the **“Import”** or **“Share Code”** tab (depending on your app version).  
+3. Paste this code: `vMi42wIb`
 4. Click **Import** — CurseForge will create the profile and start downloading all the correct mods.
 
 💡 **Tip:** This may take a few minutes on the first run — that’s normal!
@@ -5,31 +38,37 @@
 ---
 
 ## 🚀 Step 3: Launch Minecraft
+*Now you’re ready to play!*
+
 1. Once the download finishes, you’ll see a new profile named **Mint’s Awesome Modpack**.  
-2. Click **Play**.  
-3. The official Minecraft Launcher will open automatically.  
-4. Sign in with your usual **Microsoft account** that owns Minecraft Java Edition.  
-5. Click **Play** again to start the game.  
-6. You might see:
+2. Click **Play** — this opens the **Minecraft Launcher.**  
+3. The launcher might ask you to **sign in** — use your usual **Microsoft account** that owns Minecraft.  
+4. When signed in, click **Play** again to start the game.  
+5. You might see:
 > “You are about to play a Minecraft: Java Edition installation that has been modified.”  
-That’s normal — it just means Fabric and the helper mods are running.  
+That’s **normal** — it just means Fabric and the helper mods are running.  
 ✅ Click **Play** again to continue.
+6. When Minecraft starts, the **Essential Mod** might ask if you want to update it.  
+- That’s also **normal and safe**.  
+- You can say **Yes** to update or **No** to skip — either choice is fine.
 
 ---
 
 ## 🏠 Step 4: Join the Server
-1. In the Minecraft main menu, click **Multiplayer**.  
-2. A warning will appear:  
+*Time to connect and start playing!*
+
+1. From the Minecraft main menu, click **Multiplayer.**  
+2. You’ll see a message saying:  
 > “⚠️ Caution: Third-Party Online Play”  
-That’s fine — it’s just a reminder you’re joining a private world.  
-- Click **Proceed**.  
-- (Optional) Tick **“Do not show this again”** if you don’t want to see it each time.
-3. Click **Add Server**.  
+That’s **fine and expected** — it just means you’re joining a private world.  
+- ✅ Click **Proceed** to continue.  
+- (Optional) Tick **“Do not show this screen again”** if you don’t want to see it each time.
+3. Click **Add Server.**  
 4. Fill in:
 - **Server Name:** Mint’s Awesome Server  
-- **Server Address:** `mintcraft.se`  
-- **Server Resource Packs:** set to **Enabled** (so textures and sounds load automatically).
-5. Click **Done**, then select the server and click **Join Server**.
+- **Server Address:** `57.129.38.77:2496`  
+- **Server Resource Packs:** set this to **Enabled** (so textures and sounds load automatically).  
+5. Click **Done**, then select the server and click **Join Server.**
 
 ---
 
