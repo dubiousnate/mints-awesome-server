@@ -16,6 +16,10 @@ Everything here is safe and official. If something looks different, don’t worr
 
 ---
 
+👉 **[Use the CurseForge Share Code instead]({{ '/index_code.html' | relative_url }})**
+
+---
+
 ## ⚠️ Before You Begin
 Before we start:
 - You need to **own Minecraft: Java Edition** for **PC or Mac**.  
