@@ -3,6 +3,10 @@ title: How to Play on Mint’s Minecraft Server (Using a Share Code)
 layout: default
 ---
 
+Denna guide finns även på [Svenska]({{ '/index_code_sv.html' | relative_url }}).
+
+---
+
 # 🍀 How to Play on Mint’s Minecraft Server (Share Code Version)
 
 Welcome to **Mint’s Awesome Modpack**!  
@@ -30,7 +34,7 @@ Everything here is official and safe — no extra downloads or websites needed.
 
 1. In the top-right corner of the CurseForge Minecraft screen, click **“Create Custom Profile.”**  
 2. In the pop-up window, click the **“Import”** or **“Share Code”** tab (depending on your app version).  
-3. Paste this code: `vMi42wIb`
+3. Paste this code: `ao3rkflK`
 4. Click **Import** — CurseForge will create the profile and start downloading all the correct mods.
 
 💡 **Tip:** This may take a few minutes on the first run — that’s normal!

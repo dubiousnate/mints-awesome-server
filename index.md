@@ -3,6 +3,10 @@ title: How to Play on Mint’s Minecraft Server
 layout: default
 ---
 
+Denna guide finns även på [Svenska]({{ '/index_sv.html' | relative_url }}).
+
+---
+
 # 🍀 How to Play on Mint’s Minecraft Server
 
 Welcome to **Mint’s Awesome Modpack**!  
