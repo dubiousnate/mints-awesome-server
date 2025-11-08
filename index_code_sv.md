@@ -2,6 +2,7 @@
 title: Hur man spelar på Mints Minecraft-server (med en delningskod)
 layout: default
 ---
+![Serverstatus](https://mcapi.us/server/image?ip=57.129.38.77&port=2496)
 
 This guide is also available in [English]({{ '/index_code.html' | relative_url }}).
 

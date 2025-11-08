@@ -2,6 +2,7 @@
 title: How to Play on Mint’s Minecraft Server
 layout: default
 ---
+![Server Status](https://mcapi.us/server/image?ip=57.129.38.77&port=2496)
 
 Denna guide finns även på [Svenska]({{ '/index_sv.html' | relative_url }}).
 
