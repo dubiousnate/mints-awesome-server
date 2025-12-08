@@ -2,7 +2,7 @@
 title: Hur man spelar på Mints Minecraft-server
 layout: default
 ---
-![Serverstatus](https://mcapi.us/server/image?ip=57.129.38.77&port=2496)
+![Serverstatus](https://mcapi.us/server/image?ip=mintcraft.se)
 
 This guide is also available in [English]({{ '/index.html' | relative_url }}).
 
@@ -11,7 +11,7 @@ This guide is also available in [English]({{ '/index.html' | relative_url }}).
 # 🍀 Hur man spelar på Mints Minecraft-server
 
 Välkommen till **Mints fantastiska modpack**!
-Denna enkla guide hjälper dig (eller dina barn!) att ansluta till vår vänliga Minecraft-värld på **57.129.38.77:2496** – steg för steg.
+Denna enkla guide hjälper dig (eller dina barn!) att ansluta till vår vänliga Minecraft-värld på **mintcraft.se** – steg för steg.
 
 ---
 
@@ -76,7 +76,7 @@ Innan vi börjar:
 3. Klicka på **Lägg till server.**
 4. Fyll i:
    - **Servernamn:** Mints fantastiska server
-   - **Serveradress:** `57.129.38.77:2496`
+   - **Serveradress:** `mintcraft.se`
    - **Serverresurspaket:** ställ in detta på **Aktiverat** (istället för **Fråga**) så att du automatiskt får serverns texturer och ljud.
 5. Klicka på **Klar**, välj sedan servern och klicka på **Anslut till server.**
 
