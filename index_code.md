@@ -2,7 +2,7 @@
 title: How to Play on Mint’s Minecraft Server (Using a Share Code)
 layout: default
 ---
-![Server Status](https://mcapi.us/server/image?ip=57.129.38.77&port=2496)
+![Server Status](https://mcapi.us/server/image?ip=mintcraft.se)
 
 Denna guide finns även på [Svenska]({{ '/index_code_sv.html' | relative_url }}).
 
