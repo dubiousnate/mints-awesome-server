@@ -50,9 +50,10 @@ Everything here is official and safe — no extra downloads or websites needed.
 3. The launcher might ask you to **sign in** — use your usual **Microsoft account** that owns Minecraft.  
 4. When signed in, click **Play** again to start the game.  
 5. You might see:
-> “You are about to play a Minecraft: Java Edition installation that has been modified.”  
-That’s **normal** — it just means Fabric and the helper mods are running.  
-✅ Click **Play** again to continue.
+   > “You are about to play a Minecraft: Java Edition installation that has been modified.”  
+
+   - That’s **normal** — it just means Fabric and the helper mods are running.  
+   - ✅ Click **Play** again to continue.
 6. When Minecraft starts, the **Essential Mod** might ask if you want to update it.  
 - That’s also **normal and safe**.  
 - You can say **Yes** to update or **No** to skip — either choice is fine.
@@ -66,6 +67,7 @@ That’s **normal** — it just means Fabric and the helper mods are running.
 2. You’ll see a message saying:  
    > “⚠️ Caution: Third-Party Online Play”  
    That’s **fine and expected** — it just means you’re joining a private world.  
+
    - ✅ Click **Proceed** to continue.  
    - (Optional) Tick **“Do not show this screen again”** if you don’t want to see it each time.
 3. Click **Add Server.**  
