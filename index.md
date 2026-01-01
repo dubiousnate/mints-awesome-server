@@ -83,11 +83,11 @@ Before we start:
    > This server provides an external modpack!
    >
    > Do you want to download it? It might be risky!
-   **Click "download"**. Afterwards, you'll see:
+   - **Click "download"**. Afterwards, you'll see:
    > Modpack has been downloaded!
    >
    > To play you have to restart the game. Do you want to restart now?
-   **Click "Yes, close the game"**. After that you'll need to re-launch the game as you did in Step 2. 
+   -  **Click "Yes, close the game"**. After that you'll need to re-launch the game as you did in Step 2, then you can click **Multiplayer** again from the Minecraft main menu, see Mint’s Merry Realm in the server list, and join from there. **Sometimes you'll have to do another mod update using Automodpack - that's fine and totally normal.
 
 ---
 
