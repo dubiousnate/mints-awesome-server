@@ -31,7 +31,7 @@ Everything here is official and safe — no extra downloads or websites needed.
 ---
 
 ## ⚙️ Step 2: Create a Custom Profile Using the Share Code
-*This automatically adds Mint’s Awesome Modpack to your app.*
+*This automatically adds Mint’s Merry Realms Modpack to your app.*
 
 1. In the top-right corner of the CurseForge Minecraft screen, click **“Create Custom Profile.”**  
 2. In the pop-up window, click the **“Import”** or **“Share Code”** tab (depending on your app version).  
@@ -45,7 +45,7 @@ Everything here is official and safe — no extra downloads or websites needed.
 ## 🚀 Step 3: Launch Minecraft
 *Now you’re ready to play!*
 
-1. Once the download finishes, you’ll see a new profile named **Mint’s Awesome Modpack**.  
+1. Once the download finishes, you’ll see a new profile named something like **Mint’s Merry Realm**.  
 2. Click **Play** — this opens the **Minecraft Launcher.**  
 3. The launcher might ask you to **sign in** — use your usual **Microsoft account** that owns Minecraft.  
 4. When signed in, click **Play** again to start the game.  
@@ -81,11 +81,11 @@ That’s **fine and expected** — it just means you’re joining a private worl
 - The server uses **AutoModpack**, which keeps everyone’s mods up to date.  
 ⏳ Your first join might take a few minutes, and you are probably going to be asked to close and reopen your minecraft app once or twice — that’s totally normal! 
 - If Minecraft shows a “missing mod” or “version mismatch,” just restart — AutoModpack will fix it automatically.  
-- To play later, just open the **CurseForge App**, select **Mint’s Awesome Modpack**, and click **Play** again.
+- To play later, just open the **CurseForge App**, select **Mint’s Merry Realms modpack**, and click **Play** again.
 
 ---
 
 ## 🎮 You’re Ready to Play!
-That’s it! You’re all set to play, explore, and build on **Mint’s Awesome Server** with friends and family.  
+That’s it! You’re all set to play, explore, and build on **Mint’s server** with friends and family.  
 
-See you on **Mint’s Awesome Server!** 🍀
+See you on **Mint’s server!** 🍀
