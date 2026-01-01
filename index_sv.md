@@ -11,24 +11,20 @@ This guide is also available in [English]({{ '/index.html' | relative_url }}).
 # 🍀 Hur man spelar på Mints Minecraft-server
 
 Välkommen till **Mints fantastiska modpack**!
-Denna enkla guide hjälper dig (eller dina barn!) att ansluta till vår vänliga Minecraft-värld på **mintcraft.se** – steg för steg.
+Denna enkla guide hjälper dig (eller dina barn!) att ansluta till vår vänliga Minecraft-värld på **mintcraft.se** - steg för steg.
 
 ---
 
 ### 🧑‍🏫 För föräldrar
 Denna guide hjälper ditt barn att säkert ansluta till en **privat Minecraft Java Edition**-server med betrodda moddar från **CurseForge**.
-Allt här är säkert och officiellt. Om något ser annorlunda ut, oroa dig inte – starta bara om Minecraft och följ samma steg igen.
-
----
-
-👉 **[Använd CurseForge-delningskoden istället]({{ '/index_code_sv.html' | relative_url }})**
+Allt här är säkert och testat. Om något ser annorlunda ut, oroa dig inte - starta bara om Minecraft och följ samma steg igen.
 
 ---
 
 ## ⚠️ Innan du börjar
 Innan vi börjar:
 - Du måste **äga Minecraft: Java Edition** för **PC eller Mac**.
-  (Denna guide fungerar inte med Minecraft Bedrock – det är versionen för konsoler, surfplattor och telefoner.)
+  (Denna guide fungerar inte med Minecraft Bedrock - det är versionen för konsoler, surfplattor och telefoner.)
 - Se till att du kan starta **vanlig Minecraft Java Edition** minst en gång.
 - Du måste logga in med det **Microsoft-konto** som äger Minecraft Java när du blir ombedd.
 
@@ -39,10 +35,10 @@ Innan vi börjar:
 
 1. Öppna den här länken i din webbläsare:
    👉 [**Mints fantastiska modpack på CurseForge**](https://www.curseforge.com/minecraft/modpacks/mints-merry-realms/install/7403223)
-3. Klicka på **“Installera via CurseForge-appen.”**
+2. Klicka på **"Installera via CurseForge-appen."**
    - Detta öppnar **CurseForge-appen** och börjar ladda ner allt du behöver.
-4. Om du inte har CurseForge-appen än kommer den att be dig installera den.
-   - Följ instruktionerna, kom sedan tillbaka och klicka på **“Installera via appen”** igen.
+3. Om du inte har CurseForge-appen än kommer den att be dig installera den.
+   - Följ instruktionerna, kom sedan tillbaka och klicka på **"Installera via appen"** igen.
 
 ---
 
@@ -51,16 +47,17 @@ Innan vi börjar:
 
 1. I **CurseForge-appen**, gå till **Mina modpacks**.
 2. Hitta **Mints fantastiska modpack**.
-3. Klicka på **Spela** – detta öppnar **Minecraft Launcher**.
-4. Startprogrammet kan be dig att **logga in** – använd ditt vanliga **Microsoft-konto** som äger Minecraft.
+3. Klicka på **Spela** - detta öppnar **Minecraft Launcher**.
+4. Startprogrammet kan be dig att **logga in** - använd ditt vanliga **Microsoft-konto** som äger Minecraft.
 5. När du är inloggad, klicka på **Spela** igen för att starta spelet.
 6. Du kommer att se ett meddelande som säger:
    > "Du är på väg att spela en Minecraft: Java Edition-installation som har modifierats."
-   Det är **normalt** – det betyder bara att Fabric och hjälpmoddarna körs.
-   ✅ Klicka på **Spela** igen för att fortsätta.
+
+   - Det är **normalt** - det betyder bara att Fabric och hjälpmoddarna körs.
+   - ✅ Klicka på **Spela** igen för att fortsätta.
 7. När Minecraft startar kan **Essential Mod** dyka upp och be om att uppdatera sig själv.
    - Det är också **normalt och säkert**.
-   - Du kan säga **Ja** för att uppdatera eller **Nej** för att hoppa över – båda valen är bra.
+   - Du kan säga **Ja** för att uppdatera eller **Nej** för att hoppa över - båda valen är bra.
 
 ---
 
@@ -70,15 +67,16 @@ Innan vi börjar:
 1. Från Minecrafts huvudmeny, klicka på **Flerspelarläge**.
 2. Du kommer att se ett meddelande som säger:
    > "⚠️ Varning: Onlinespel från tredje part"
-   Det är **okej och förväntat** – det betyder bara att du ansluter till en privat värld.
+
+   - Det är **okej och förväntat** - det betyder bara att du ansluter till en privat värld.
    - ✅ Klicka på **Fortsätt** för att fortsätta.
-   - (Valfritt) Bocka för **“Visa inte den här skärmen igen”** om du inte vill se den varje gång.
-3. Klicka på **Lägg till server.**
+   - (Valfritt) Bocka för **"Visa inte den här skärmen igen"** om du inte vill se den varje gång.
+3. Klicka på **Lägg till server**.
 4. Fyll i:
    - **Servernamn:** Mints fantastiska server
    - **Serveradress:** `mintcraft.se`
    - **Serverresurspaket:** ställ in detta på **Aktiverat** (istället för **Fråga**) så att du automatiskt får serverns texturer och ljud.
-5. Klicka på **Klar**, välj sedan servern och klicka på **Anslut till server.**
+5. Klicka på **Klar**, välj sedan servern och klicka på **Anslut till server**.
 6. Om det är första gången du ansluter till servern, eller om ändringar har gjorts på servern sedan du senast spelade, kommer du att se ett meddelande som säger:
    > This server provides an external modpack!
    >
@@ -90,15 +88,15 @@ Innan vi börjar:
    >
    > To play you have to restart the game. Do you want to restart now?
 
-   -  **Klicka på "Yes, close the game"**. Efter det måste du starta om spelet som du gjorde i Steg 2, sedan kan du klicka på **Flerspelarläge** igen från Minecrafts huvudmeny, se Mints fantastiska server i serverlistan och ansluta därifrån. **Ibland måste du göra ytterligare en modduppdatering med Automodpack** - det är helt okej och helt normalt.
+   - **Klicka på "Yes, close the game"**. Efter det startar du om spelet som du gjorde i Steg 2, klickar på **Flerspelarläge** igen och ansluter till Mints fantastiska server från serverlistan. **Ibland behöver du göra ytterligare en modduppdatering** - det är helt okej och helt normalt.
 
 ---
 
 ## 💡 Tips
 - Se till att du har den **nyaste versionen** av **Mints fantastiska modpack.**
 - Servern använder en hjälpreda som heter **AutoModpack**, som ser till att alla har rätt moddar.
-- ⏳ *Din första anslutning kan ta några minuter, och du kommer förmodligen att bli ombedd att stänga och öppna din Minecraft-app en eller två gånger — det är helt normalt!*
-- Om Minecraft visar en varning om "versionsfel" eller "saknad mod", starta bara om – AutoModpack kommer att fixa det.
+- ⏳ *Din första anslutning kan ta några minuter, och du kommer förmodligen att bli ombedd att stänga och öppna din Minecraft-app en eller två gånger - det är helt normalt!*
+- Om Minecraft visar en varning om "versionsfel" eller "saknad mod", starta bara om - AutoModpack kommer att fixa det.
 - För att lämna och komma tillbaka senare, öppna helt enkelt CurseForge-appen igen och klicka på **Spela**.
 
 ---
@@ -117,4 +115,4 @@ Vill du se vad vi har byggt? Kolla in vår interaktiva 3D-världskarta!
 
 👉 **[Visa 3D Världskartan](http://mintcraft.se:8100/#world:-396:51:-275:126:-2.37:0.76:0:0:perspective)**
 
-Kartan visar alla våra byggnader, terräng och spelare online i realtid. Ingen installation behövs — öppna den bara i din webbläsare!
+Kartan visar alla våra byggnader, terräng och spelare online i realtid. Ingen installation behövs - öppna den bara i din webbläsare!

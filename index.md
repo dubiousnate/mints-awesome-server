@@ -10,77 +10,73 @@ Denna guide finns även på [Svenska]({{ '/index_sv.html' | relative_url }}).
 
 # 🍀 How to Play on Mint’s Minecraft Server
 
-Welcome to **Mint’s Minecraft Server**!  
-This simple guide will help you (or your kids!) join our friendly Minecraft world at **mintcraft.se** — step by step.
+Welcome to **Mint's Minecraft Server**!
+This simple guide will help you (or your kids!) join our friendly Minecraft world at **mintcraft.se** - step by step.
 
 ---
 
 ### 🧑‍🏫 For Parents
-This guide helps your child safely join a **private Minecraft Java Edition** server using trusted mods from **CurseForge**.  
-Everything here is safe and official. If something looks different, don’t worry — just restart Minecraft and follow the same steps again.
-
----
-
-👉 **[Use the CurseForge Share Code instead]({{ '/index_code.html' | relative_url }})**
+This guide helps your child safely join a **private Minecraft Java Edition** server using trusted mods from **CurseForge**.
+Everything here is safe and tested. If something looks different, don't worry - just restart Minecraft and follow the same steps again.
 
 ---
 
 ## ⚠️ Before You Begin
 Before we start:
-- You need to **own Minecraft: Java Edition** for **PC or Mac**.  
-  (This guide won’t work with Minecraft Bedrock — that’s the version for consoles, tablets, and phones.)
-- Make sure you can launch **regular Minecraft Java Edition** at least once.  
-- You’ll need to sign in with the **Microsoft account** that owns Minecraft Java when asked.
+- You need to **own Minecraft: Java Edition** for **PC or Mac**.
+  (This guide won't work with Minecraft Bedrock - that's the version for consoles, tablets, and phones.)
+- Make sure you can launch **regular Minecraft Java Edition** at least once.
+- You'll need to sign in with the **Microsoft account** that owns Minecraft Java when asked.
 
 ---
 
 ## 🧩 Step 1: Get the Modpack  
 *Let’s grab the files you need so Minecraft can connect to the server.*
 
-1. Open this link in your web browser:  
-   👉 [**Mint’s Merry Realms modpack on CurseForge**](https://www.curseforge.com/minecraft/modpacks/mints-merry-realms/install/7403223)
-3. Click **“Install via CurseForge App.”**  
-   - This will open the **CurseForge App** and start downloading everything you need.  
-4. If you don’t have the CurseForge App yet, it’ll ask you to install it.  
-   - Follow the instructions, then come back and click **“Install via App”** again.
+1. Open this link in your web browser:
+   👉 [**Mint's Merry Realms modpack on CurseForge**](https://www.curseforge.com/minecraft/modpacks/mints-merry-realms/install/7403223)
+2. Click **"Install via CurseForge App."**
+   - This will open the **CurseForge App** and start downloading everything you need.
+3. If you don't have the CurseForge App yet, you'll be asked to install it.
+   - Follow the instructions, then come back and click **"Install via App"** again.
 
 ---
 
-## ⚙️ Step 2: Launch the Modpack  
-*Now we’ll open Minecraft through CurseForge.*
+## ⚙️ Step 2: Launch the Modpack
+*Now we'll open Minecraft through CurseForge.*
 
-1. In the **CurseForge App**, go to **My Modpacks**.  
-2. Find **Mint’s Merry Realms**.  
-3. Click **Play** — this opens the **Minecraft Launcher**.  
-4. The launcher might ask you to **sign in** — use your usual **Microsoft account** that owns Minecraft.  
-5. When signed in, click **Play** again to start the game.  
-6. You’ll see a message saying:  
-   > “You are about to play a Minecraft: Java Edition installation that has been modified.”
+1. In the **CurseForge App**, go to **My Modpacks**.
+2. Find **Mint's Merry Realms**.
+3. Click **Play** - this opens the **Minecraft Launcher**.
+4. The launcher might ask you to **sign in** - use your usual **Microsoft account** that owns Minecraft.
+5. When signed in, click **Play** again to start the game.
+6. You'll see a message saying:
+   > "You are about to play a Minecraft: Java Edition installation that has been modified."
 
-   - That’s **normal** — it just means Fabric and the helper mods are running.  
-   - ✅ Click **Play** again to continue.  
-7. When Minecraft starts, the **Essential Mod** might pop up asking to update itself.  
-   - That’s also **normal and safe**.  
-   - You can say **Yes** to update or **No** to skip — either choice is fine.
+   - That's **normal** - it just means Fabric and the helper mods are running.
+   - ✅ Click **Play** again to continue.
+7. When Minecraft starts, the **Essential Mod** might pop up asking to update itself.
+   - That's also **normal and safe**.
+   - You can say **Yes** to update or **No** to skip - either choice is fine.
 
 ---
 
-## 🏠 Step 3: Join the Server  
+## 🏠 Step 3: Join the Server
 *Time to connect and start playing!*
 
-1. From the Minecraft main menu, click **Multiplayer**.  
-2. You’ll see a message saying:  
-   > “⚠️ Caution: Third-Party Online Play”
+1. From the Minecraft main menu, click **Multiplayer**.
+2. You'll see a message saying:
+   > "⚠️ Caution: Third-Party Online Play"
 
-   - That’s **fine and expected** — it just means you’re joining a private world.  
-   - ✅ Click **Proceed** to continue.  
-   - (Optional) Tick **“Do not show this screen again”** if you don’t want to see it each time.
-3. Click **Add Server.**  
+   - That's **fine and expected** - it just means you're joining a private world.
+   - ✅ Click **Proceed** to continue.
+   - (Optional) Tick **"Do not show this screen again"** if you don't want to see it each time.
+3. Click **Add Server**.
 4. Fill in:
-   - **Server Name:** Mint’s Merry Realm  
-   - **Server Address:** `mintcraft.se`  
-   - **Server Resource Packs:** set this to **Enabled** (instead of **Prompt**) so you automatically get the server’s textures and sounds.
-5. Click **Done**, then select the server and click **Join Server.**
+   - **Server Name:** Mint's Merry Realm
+   - **Server Address:** `mintcraft.se`
+   - **Server Resource Packs:** set this to **Enabled** (instead of **Prompt**) so you automatically get the server's textures and sounds.
+5. Click **Done**, then select the server and click **Join Server**.
 6. If this is the first time you've joined the server, or if changes have been made to the server since you last played, you'll see a message saying:
    > This server provides an external modpack!
    >
@@ -92,15 +88,15 @@ Before we start:
    >
    > To play you have to restart the game. Do you want to restart now?
 
-   -  **Click "Yes, close the game"**. After that you'll need to re-launch the game as you did in Step 2, then you can click **Multiplayer** again from the Minecraft main menu, see Mint’s Merry Realm in the server list, and join from there. **Sometimes you'll have to do another mod update using Automodpack** - that's fine and totally normal.
+   - **Click "Yes, close the game"**. After that, re-launch the game as you did in Step 2, click **Multiplayer** again, and join Mint's Merry Realm from the server list. **Sometimes you'll need to do another mod update** - that's fine and totally normal.
 
 ---
 
 ## 💡 Tips
-- Make sure you have the **newest version** of **Mint’s Merry Realms modpack**.
+- Make sure you have the **newest version** of **Mint's Merry Realms modpack**.
 - The server uses a helper called **AutoModpack**, which makes sure everyone has the right mods.
-- ⏳ *Your first join might take a few minutes, and you are probably going to be asked to close and reopen your minecraft app once or twice — that’s totally normal!*
-- If Minecraft shows a “version mismatch” or “missing mod” warning, just restart — AutoModpack will fix it.  
+- ⏳ *Your first join might take a few minutes, and you'll probably be asked to close and reopen Minecraft once or twice - that's totally normal!*
+- If Minecraft shows a "version mismatch" or "missing mod" warning, just restart - AutoModpack will fix it.
 - To leave and come back later, simply open the CurseForge App again and click **Play**.
 
 ---
@@ -119,4 +115,4 @@ Want to see what we've built? Check out our interactive 3D world map!
 
 👉 **[View the 3D World Map](http://mintcraft.se:8100/#world:-396:51:-275:126:-2.37:0.76:0:0:perspective)**
 
-The map shows all our builds, terrain, and online players in real-time. No installation needed — just open it in your web browser!
+The map shows all our builds, terrain, and online players in real-time. No installation needed - just open it in your web browser!
