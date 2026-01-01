@@ -50,7 +50,7 @@ Before we start:
 *Now we’ll open Minecraft through CurseForge.*
 
 1. In the **CurseForge App**, go to **My Modpacks**.  
-2. Find **Mint’s Awesome Modpack**.  
+2. Find **Mint’s Merry Realms**.  
 3. Click **Play** — this opens the **Minecraft Launcher**.  
 4. The launcher might ask you to **sign in** — use your usual **Microsoft account** that owns Minecraft.  
 5. When signed in, click **Play** again to start the game.  
@@ -83,7 +83,7 @@ Before we start:
 ---
 
 ## 💡 Tips
-- Make sure you have the **newest version** of **Mint’s Awesome Modpack.**  
+- Make sure you have the **newest version** of **Mint’s Merry Realms modpack**.
 - The server uses a helper called **AutoModpack**, which makes sure everyone has the right mods.
 - ⏳ *Your first join might take a few minutes, and you are probably going to be asked to close and reopen your minecraft app once or twice — that’s totally normal!*
 - If Minecraft shows a “version mismatch” or “missing mod” warning, just restart — AutoModpack will fix it.  
@@ -93,6 +93,6 @@ Before we start:
 
 ## 🎮 You’re Ready to Play!
 That’s it!  
-You’re ready to explore, build, and have fun on **Mint’s Awesome Server** with friends and family.  
+You’re ready to explore, build, and have fun on **Mint’s Merry Realm** with friends and family.  
 
 See you on **Mint’s Awesome Server!** 🍀
