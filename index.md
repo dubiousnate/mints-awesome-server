@@ -79,6 +79,15 @@ Before we start:
    - **Server Address:** `mintcraft.se`  
    - **Server Resource Packs:** set this to **Enabled** (instead of **Prompt**) so you automatically get the server’s textures and sounds.
 5. Click **Done**, then select the server and click **Join Server.**
+6. If this is the first time you've joined the server, or if changes have been made to the server since you last played, you'll see a message saying:
+   > This server provides an external modpack!
+   >
+   > Do you want to download it? It might be risky!
+   **Click "download"**. Afterwards, you'll see:
+   > Modpack has been downloaded!
+   >
+   > To play you have to restart the game. Do you want to restart now?
+   **Click "Yes, close the game"**. After that you'll need to re-launch the game as you did in Step 2. 
 
 ---
 
