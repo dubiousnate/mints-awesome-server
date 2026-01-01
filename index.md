@@ -84,8 +84,8 @@ Before we start:
 
 ## 💡 Tips
 - Make sure you have the **newest version** of **Mint’s Awesome Modpack.**  
-- The server uses a helper called **AutoModpack**, which makes sure everyone has the right mods.  
-  ⏳ *The first time you connect, it might take a few minutes to download and set things up — that’s normal!*  
+- The server uses a helper called **AutoModpack**, which makes sure everyone has the right mods.
+- ⏳ *Your first join might take a few minutes, and you are probably going to be asked to close and reopen your minecraft app once or twice — that’s totally normal!*
 - If Minecraft shows a “version mismatch” or “missing mod” warning, just restart — AutoModpack will fix it.  
 - To leave and come back later, simply open the CurseForge App again and click **Play**.
 
