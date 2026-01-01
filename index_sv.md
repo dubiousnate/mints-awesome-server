@@ -96,3 +96,13 @@ Det var allt!
 Du är redo att utforska, bygga och ha kul på **Mints fantastiska server** med vänner och familj.
 
 Vi ses på **Mints fantastiska server!** 🍀
+
+---
+
+## 🗺️ Utforska Vår Värld
+
+Vill du se vad vi har byggt? Kolla in vår interaktiva 3D-världskarta!
+
+👉 **[Visa 3D Världskartan](http://mintcraft.se:8100/#world:-396:51:-275:126:-2.37:0.76:0:0:perspective)**
+
+Kartan visar alla våra byggnader, terräng och spelare online i realtid. Ingen installation behövs — öppna den bara i din webbläsare!

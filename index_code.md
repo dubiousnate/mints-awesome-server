@@ -99,7 +99,17 @@ Everything here is official and safe — no extra downloads or websites needed.
 
 ---
 
-## 🎮 You’re Ready to Play!
-That’s it! You’re all set to play, explore, and build on **Mint’s server** with friends and family.  
+## 🎮 You're Ready to Play!
+That's it! You're all set to play, explore, and build on **Mint's server** with friends and family.
 
-See you on **Mint’s server!** 🍀
+See you on **Mint's server!** 🍀
+
+---
+
+## 🗺️ Explore Our World
+
+Want to see what we've built? Check out our interactive 3D world map!
+
+👉 **[View the 3D World Map](http://mintcraft.se:8100/#world:-396:51:-275:126:-2.37:0.76:0:0:perspective)**
+
+The map shows all our builds, terrain, and online players in real-time. No installation needed — just open it in your web browser!
