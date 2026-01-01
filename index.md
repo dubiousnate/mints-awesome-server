@@ -10,7 +10,7 @@ Denna guide finns även på [Svenska]({{ '/index_sv.html' | relative_url }}).
 
 # 🍀 How to Play on Mint’s Minecraft Server
 
-Welcome to **Mint’s Awesome Modpack**!  
+Welcome to **Mint’s Minecraft Server**!  
 This simple guide will help you (or your kids!) join our friendly Minecraft world at **mintcraft.se** — step by step.
 
 ---
@@ -75,7 +75,7 @@ Before we start:
    - (Optional) Tick **“Do not show this screen again”** if you don’t want to see it each time.
 3. Click **Add Server.**  
 4. Fill in:
-   - **Server Name:** Mint’s Awesome Server  
+   - **Server Name:** Mint’s Merry Realm  
    - **Server Address:** `mintcraft.se`  
    - **Server Resource Packs:** set this to **Enabled** (instead of **Prompt**) so you automatically get the server’s textures and sounds.
 5. Click **Done**, then select the server and click **Join Server.**
