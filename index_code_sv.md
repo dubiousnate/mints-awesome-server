@@ -2,7 +2,7 @@
 title: Hur man spelar på Mints Minecraft-server (med en delningskod)
 layout: default
 ---
-![Serverstatus](https://mcapi.us/server/image?ip=57.129.38.77&port=2496)
+![Serverstatus](https://mcapi.us/server/image?ip=mintcraft.se)
 
 This guide is also available in [English]({{ '/index_code.html' | relative_url }}).
 
@@ -33,9 +33,9 @@ Allt här är officiellt och säkert – inga extra nedladdningar eller webbplat
 ## ⚙️ Steg 2: Skapa en anpassad profil med delningskoden
 *Detta lägger automatiskt till Mints fantastiska modpack i din app.*
 
-1. I det övre högra hörnet av CurseForge Minecraft-skärmen, klicka på **“Skapa anpassad profil.”**
-2. I popup-fönstret, klicka på fliken **“Importera”** eller **“Delningskod”** (beroende på din appversion).
-3. Klistra in den här koden: `ao3rkflK`
+1. I det övre högra hörnet av CurseForge Minecraft-skärmen, klicka på **"Skapa anpassad profil."**
+2. I popup-fönstret, klicka på fliken **"Importera"** eller **"Delningskod"** (beroende på din appversion).
+3. Klistra in den här koden: `9hQa52US`
 4. Klicka på **Importera** – CurseForge skapar profilen och börjar ladda ner alla korrekta moddar.
 
 💡 **Tips:** Detta kan ta några minuter första gången – det är normalt!
@@ -71,24 +71,37 @@ Det är **okej och förväntat** – det betyder bara att du ansluter till en pr
 3. Klicka på **Lägg till server.**
 4. Fyll i:
 - **Servernamn:** Mints fantastiska server
-- **Serveradress:** `57.129.38.77:2496`
+- **Serveradress:** `mintcraft.se`
 - **Serverresurspaket:** ställ in detta på **Aktiverat** (så att texturer och ljud laddas automatiskt).
 5. Klicka på **Klar**, välj sedan servern och klicka på **Anslut till server.**
+6. Om det är första gången du ansluter till servern, eller om ändringar har gjorts på servern sedan du senast spelade, kommer du att se ett meddelande som säger:
+   > This server provides an external modpack!
+   >
+   > Do you want to download it? It might be risky!
+
+   - **Klicka på "download"**. Efteråt kommer du att se:
+
+   > Modpack has been downloaded!
+   >
+   > To play you have to restart the game. Do you want to restart now?
+
+   -  **Klicka på "Yes, close the game"**. Efter det måste du starta om spelet som du gjorde i Steg 3, sedan kan du klicka på **Flerspelarläge** igen från Minecrafts huvudmeny, se Mints fantastiska server i serverlistan och ansluta därifrån. **Ibland måste du göra ytterligare en modduppdatering med Automodpack** - det är helt okej och helt normalt.
 
 ---
 
 ## 💡 Tips
 - Servern använder **AutoModpack**, som håller allas moddar uppdaterade.
-⏳ Din första anslutning kan ta några minuter – det är helt normalt!
+- ⏳ Din första anslutning kan ta några minuter, och du kommer förmodligen att bli ombedd att stänga och öppna din Minecraft-app en eller två gånger — det är helt normalt!
 - Om Minecraft visar "saknad mod" eller "versionsfel", starta bara om – AutoModpack fixar det automatiskt.
 - För att spela senare, öppna bara **CurseForge-appen**, välj **Mints fantastiska modpack** och klicka på **Spela** igen.
 
 ---
 
 ## 🎮 Du är redo att spela!
-Det var allt! Du är redo att spela, utforska och bygga på **Mints fantastiska server** med vänner och familj.
+Det var allt!
+Du är redo att utforska, bygga och ha kul på **Mints fantastiska server** med vänner och familj.
 
-Vi ses på **Mints fantastiska server!** 🍀
+Vi ses på **Mints Server!** 🍀
 
 ---
 
@@ -99,5 +112,3 @@ Vill du se vad vi har byggt? Kolla in vår interaktiva 3D-världskarta!
 👉 **[Visa 3D Världskartan](http://mintcraft.se:8100/#world:-396:51:-275:126:-2.37:0.76:0:0:perspective)**
 
 Kartan visar alla våra byggnader, terräng och spelare online i realtid. Ingen installation behövs — öppna den bara i din webbläsare!
-
-<iframe src="http://mintcraft.se:8100/#world:-396:51:-275:126:-2.37:0.76:0:0:perspective" width="100%" height="600" style="border: 2px solid #ddd; border-radius: 8px; margin-top: 20px;" allowfullscreen></iframe>

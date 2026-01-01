@@ -38,7 +38,7 @@ Innan vi börjar:
 *Låt oss hämta filerna du behöver så att Minecraft kan ansluta till servern.*
 
 1. Öppna den här länken i din webbläsare:
-   👉 [**Mints fantastiska modpack på CurseForge**](https://www.curseforge.com/minecraft/modpacks/mints-merry-realms/install/7173765)
+   👉 [**Mints fantastiska modpack på CurseForge**](https://www.curseforge.com/minecraft/modpacks/mints-merry-realms/install/7403223)
 3. Klicka på **“Installera via CurseForge-appen.”**
    - Detta öppnar **CurseForge-appen** och börjar ladda ner allt du behöver.
 4. Om du inte har CurseForge-appen än kommer den att be dig installera den.
@@ -79,13 +79,25 @@ Innan vi börjar:
    - **Serveradress:** `mintcraft.se`
    - **Serverresurspaket:** ställ in detta på **Aktiverat** (istället för **Fråga**) så att du automatiskt får serverns texturer och ljud.
 5. Klicka på **Klar**, välj sedan servern och klicka på **Anslut till server.**
+6. Om det är första gången du ansluter till servern, eller om ändringar har gjorts på servern sedan du senast spelade, kommer du att se ett meddelande som säger:
+   > This server provides an external modpack!
+   >
+   > Do you want to download it? It might be risky!
+
+   - **Klicka på "download"**. Efteråt kommer du att se:
+
+   > Modpack has been downloaded!
+   >
+   > To play you have to restart the game. Do you want to restart now?
+
+   -  **Klicka på "Yes, close the game"**. Efter det måste du starta om spelet som du gjorde i Steg 2, sedan kan du klicka på **Flerspelarläge** igen från Minecrafts huvudmeny, se Mints fantastiska server i serverlistan och ansluta därifrån. **Ibland måste du göra ytterligare en modduppdatering med Automodpack** - det är helt okej och helt normalt.
 
 ---
 
 ## 💡 Tips
 - Se till att du har den **nyaste versionen** av **Mints fantastiska modpack.**
 - Servern använder en hjälpreda som heter **AutoModpack**, som ser till att alla har rätt moddar.
-  ⏳ *Första gången du ansluter kan det ta några minuter att ladda ner och ställa in saker – det är normalt!*
+- ⏳ *Din första anslutning kan ta några minuter, och du kommer förmodligen att bli ombedd att stänga och öppna din Minecraft-app en eller två gånger — det är helt normalt!*
 - Om Minecraft visar en varning om "versionsfel" eller "saknad mod", starta bara om – AutoModpack kommer att fixa det.
 - För att lämna och komma tillbaka senare, öppna helt enkelt CurseForge-appen igen och klicka på **Spela**.
 
@@ -95,7 +107,7 @@ Innan vi börjar:
 Det var allt!
 Du är redo att utforska, bygga och ha kul på **Mints fantastiska server** med vänner och familj.
 
-Vi ses på **Mints fantastiska server!** 🍀
+Vi ses på **Mints Server!** 🍀
 
 ---
 
@@ -106,5 +118,3 @@ Vill du se vad vi har byggt? Kolla in vår interaktiva 3D-världskarta!
 👉 **[Visa 3D Världskartan](http://mintcraft.se:8100/#world:-396:51:-275:126:-2.37:0.76:0:0:perspective)**
 
 Kartan visar alla våra byggnader, terräng och spelare online i realtid. Ingen installation behövs — öppna den bara i din webbläsare!
-
-<iframe src="http://mintcraft.se:8100/#world:-396:51:-275:126:-2.37:0.76:0:0:perspective" width="100%" height="600" style="border: 2px solid #ddd; border-radius: 8px; margin-top: 20px;" allowfullscreen></iframe>
