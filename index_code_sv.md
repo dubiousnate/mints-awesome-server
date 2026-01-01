@@ -99,3 +99,5 @@ Vill du se vad vi har byggt? Kolla in vår interaktiva 3D-världskarta!
 👉 **[Visa 3D Världskartan](http://mintcraft.se:8100/#world:-396:51:-275:126:-2.37:0.76:0:0:perspective)**
 
 Kartan visar alla våra byggnader, terräng och spelare online i realtid. Ingen installation behövs — öppna den bara i din webbläsare!
+
+<iframe src="http://mintcraft.se:8100/#world:-396:51:-275:126:-2.37:0.76:0:0:perspective" width="100%" height="600" style="border: 2px solid #ddd; border-radius: 8px; margin-top: 20px;" allowfullscreen></iframe>
