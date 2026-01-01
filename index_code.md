@@ -10,7 +10,7 @@ Denna guide finns även på [Svenska]({{ '/index_code_sv.html' | relative_url }}
 
 # 🍀 How to Play on Mint’s Minecraft Server (Share Code Version)
 
-Welcome to **Mint’s Awesome Modpack**!  
+Welcome to **Mint’s Minecraft Server**!  
 This guide helps you install the modpack directly in the **CurseForge App** using a share code instead of searching for it.
 
 ---
@@ -70,7 +70,7 @@ That’s **fine and expected** — it just means you’re joining a private worl
 - (Optional) Tick **“Do not show this screen again”** if you don’t want to see it each time.
 3. Click **Add Server.**  
 4. Fill in:
-- **Server Name:** Mint’s Awesome Server  
+- **Server Name:** Mint’s Merry Realm  
 - **Server Address:** `mintcraft.se`  
 - **Server Resource Packs:** set this to **Enabled** (so textures and sounds load automatically).  
 5. Click **Done**, then select the server and click **Join Server.**
