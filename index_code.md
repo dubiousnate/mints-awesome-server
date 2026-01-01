@@ -79,7 +79,7 @@ That’s **fine and expected** — it just means you’re joining a private worl
 
 ## 💡 Tips
 - The server uses **AutoModpack**, which keeps everyone’s mods up to date.  
-⏳ Your first join might take a few minutes — that’s totally normal!  
+⏳ Your first join might take a few minutes, and you are probably going to be asked to close and reopen your minecraft app once or twice — that’s totally normal! 
 - If Minecraft shows a “missing mod” or “version mismatch,” just restart — AutoModpack will fix it automatically.  
 - To play later, just open the **CurseForge App**, select **Mint’s Awesome Modpack**, and click **Play** again.
 
