@@ -35,7 +35,7 @@ Everything here is official and safe — no extra downloads or websites needed.
 
 1. In the top-right corner of the CurseForge Minecraft screen, click **“Create Custom Profile.”**  
 2. In the pop-up window, click the **“Import”** or **“Share Code”** tab (depending on your app version).  
-3. Paste this code: `ao3rkflK`
+3. Paste this code: `9hQa52US`
 4. Click **Import** — CurseForge will create the profile and start downloading all the correct mods.
 
 💡 **Tip:** This may take a few minutes on the first run — that’s normal!
@@ -71,7 +71,7 @@ That’s **fine and expected** — it just means you’re joining a private worl
 3. Click **Add Server.**  
 4. Fill in:
 - **Server Name:** Mint’s Awesome Server  
-- **Server Address:** `57.129.38.77:2496`  
+- **Server Address:** `mintcraft.se`  
 - **Server Resource Packs:** set this to **Enabled** (so textures and sounds load automatically).  
 5. Click **Done**, then select the server and click **Join Server.**
 
