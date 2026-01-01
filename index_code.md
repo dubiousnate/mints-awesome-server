@@ -64,16 +64,25 @@ That’s **normal** — it just means Fabric and the helper mods are running.
 
 1. From the Minecraft main menu, click **Multiplayer.**  
 2. You’ll see a message saying:  
-> “⚠️ Caution: Third-Party Online Play”  
-That’s **fine and expected** — it just means you’re joining a private world.  
-- ✅ Click **Proceed** to continue.  
-- (Optional) Tick **“Do not show this screen again”** if you don’t want to see it each time.
+   > “⚠️ Caution: Third-Party Online Play”  
+   That’s **fine and expected** — it just means you’re joining a private world.  
+   - ✅ Click **Proceed** to continue.  
+   - (Optional) Tick **“Do not show this screen again”** if you don’t want to see it each time.
 3. Click **Add Server.**  
 4. Fill in:
 - **Server Name:** Mint’s Merry Realm  
 - **Server Address:** `mintcraft.se`  
 - **Server Resource Packs:** set this to **Enabled** (so textures and sounds load automatically).  
 5. Click **Done**, then select the server and click **Join Server.**
+6. If this is the first time you've joined the server, or if changes have been made to the server since you last played, you'll see a message saying:
+   > This server provides an external modpack!
+   >
+   > Do you want to download it? It might be risky!
+   - **Click "download"**. Afterwards, you'll see:
+   > Modpack has been downloaded!
+   >
+   > To play you have to restart the game. Do you want to restart now?
+  -  **Click "Yes, close the game"**. After that you'll need to re-launch the game as you did in Step 2, afterwards you can click **Multiplayer** again from the Minecraft main menu, see Mint’s Merry Realm in the server list, and join from there. **Sometimes you'll have to do another mod update using Automodpack - that's fine and totally normal.
 
 ---
 
