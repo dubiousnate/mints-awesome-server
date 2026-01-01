@@ -38,7 +38,7 @@ Before we start:
 *Let’s grab the files you need so Minecraft can connect to the server.*
 
 1. Open this link in your web browser:  
-   👉 [**Mint’s Awesome Modpack on CurseForge**](https://www.curseforge.com/minecraft/modpacks/mints-merry-realms/install/7173765)
+   👉 [**Mint’s Awesome Modpack on CurseForge**](https://www.curseforge.com/minecraft/modpacks/mints-merry-realms/install/7403223)
 3. Click **“Install via CurseForge App.”**  
    - This will open the **CurseForge App** and start downloading everything you need.  
 4. If you don’t have the CurseForge App yet, it’ll ask you to install it.  
